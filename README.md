@@ -23,11 +23,30 @@ I love turning data and ideas into actionable insights. Here you’ll find my pr
 
 ## 💻 Projects
 
-- [Virtual Wardrobe Try-On](https://github.com/Jerryhatescode/virtual-wardrobe-try-on) - Experiment with AR-style wardrobe simulations.  
-- [Flower Encyclopedia](https://github.com/Jerryhatescode/flower-encyclopedia) - Database & info system for identifying flowers using Python.  
-- [Tic Tac Toe](https://github.com/Jerryhatescode/ti-tac-toe) - Classic Tic Tac Toe game implemented in Python.  
-- [MultiTracker](https://github.com/Jerryhatescode/multitracker) - Multi-object tracking system using Python.  
-- [User Feedback Tracker](https://github.com/Jerryhatescode/user-feedback-tracker) - Track and analyze user feedback for better decision-making.
+- ### 1. [Virtual Wardrobe Try-On](https://github.com/Jerryhatescode/virtual-wardrobe-try-on)
+- **What it does:** Simulates trying on clothes virtually using AR concepts.  
+- **Tools/Skills:** Python, OpenCV  
+- **Key Insights:** Experimented with image overlays and interactive UI for wardrobe selection.
+
+### 2. [Flower Encyclopedia](https://github.com/Jerryhatescode/flower-encyclopedia)
+- **What it does:** Identifies flowers and provides detailed information in a searchable database.  
+- **Tools/Skills:** Python, Pandas, SQLite  
+- **Key Insights:** Practiced data cleaning, database management, and creating searchable structures.
+
+### 3. [Tic Tac Toe](https://github.com/Jerryhatescode/ti-tac-toe)
+- **What it does:** Classic Tic Tac Toe game playable via command-line interface.  
+- **Tools/Skills:** Python  
+- **Key Insights:** Learned algorithmic thinking and game logic implementation.
+
+### 4. [MultiTracker](https://github.com/Jerryhatescode/multitracker)
+- **What it does:** Tracks multiple objects in a video feed simultaneously.  
+- **Tools/Skills:** Python, OpenCV  
+- **Key Insights:** Explored object detection, real-time tracking, and performance optimization.
+
+### 5. [User Feedback Tracker](https://github.com/Jerryhatescode/user-feedback-tracker)
+- **What it does:** Collects and organizes user feedback for better decision-making.  
+- **Tools/Skills:** Python, Excel  
+- **Key Insights:** Learned how to structure and analyze user feedback effectively.
 
 ---
 
